@@ -12,7 +12,7 @@ assignees: ""
 
 # DPIA Criteria
 
-The following 9 criteria of the European privacy supervisors need to be checked off for carrying out a DPIA
+The following criteria of the European privacy supervisors need to be checked off for carrying out a DPIA
 
 - [ ] Judging people based on personal characteristics
 - [ ] Automated decisions
@@ -23,6 +23,7 @@ The following 9 criteria of the European privacy supervisors need to be checked 
 - [ ] Data on vulnerable persons
 - [ ] Use of new technologies
 - [ ] Blocking a right, service or contract
+- [x] All of the above does not apply
 
 # Definition of Done
 
